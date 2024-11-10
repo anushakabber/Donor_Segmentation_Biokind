@@ -1,0 +1,12 @@
+Question 4:
+    - The average opt out count average acrosss all regions is: 0.7272727272727273
+    - This number is incredibly small so we know that not many people are option out of email communication
+        - On average each region has less than 1 opt out
+
+Quesiton 5:
+    - On average by region, it takes approximately 151 days 08:35:23.329622912 for someone to opt out
+    - So we have them on our email list for approximately half a year which is pretty good as they would get a good amount of emails
+
+Question 9:
+    - The average donors per region is 12.964285714285714
+    - So we have approximately 13 donors per region, which is pretty good as we have over 200 regions
