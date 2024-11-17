@@ -1,3 +1,4 @@
-- Bottoms Up Ball Invitation is the most effective campaigne
+- Bottoms Up Ball Invitation is the most effective campaign
 - maximum amount of people donated/engaged in a zip code is 280
 - zip code 53711 is the most engaged/has most donations
+- avg individual donations: 24.458716
